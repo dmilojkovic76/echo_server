@@ -1,0 +1,3 @@
+package adding
+
+func AddingEndpoint () {}
